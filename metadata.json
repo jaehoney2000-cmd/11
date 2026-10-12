@@ -1,0 +1,8 @@
+{
+  "name": "시장경제 - 취업시장",
+  "description": "취업시장에 뛰어든 상황의 문제 정답 입력 및 시장경제 퀘스트",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
